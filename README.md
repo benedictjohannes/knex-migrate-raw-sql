@@ -21,7 +21,7 @@ Needless to say, you'll need to set the connection with database user with enoug
 
 ## Install NodeJS
 
-If it's not installed, install [NodeJS](https://nodejs.org/download). This repo is developed with NodeJS 12.
+If it's not installed, install [NodeJS](https://nodejs.org). This repo is developed with NodeJS 12.
 
 ## run `npm install`
 
