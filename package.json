@@ -1,0 +1,17 @@
+{
+    "name": "simple-knex-migraiton",
+    "version": "0.0.1",
+    "description": "An uber simple migration",
+    "scripts": {
+        "knex": "knex",
+        "simplemigrate": "node ./simplemigrate.js"
+    },
+    "author": "yappy.benedict@gmail.com",
+    "license": "ISC",
+    "dependencies": {
+        "dayjs": "^1.8.35",
+        "dotenv": "^8.2.0",
+        "knex": "^0.21.1",
+        "pg": "^8.2.1"
+    }
+}
