@@ -11,6 +11,7 @@ If you're a NodeJS developer, the `getUpDownSql` function inside `./dbhelpers.js
 
 # Using
 
+
 ## configure .env
 
 Create a file named `.env` in the root folder of the project to setup database connection.  
@@ -18,9 +19,13 @@ The template for `.env` file can be viewed in `env.example`.
 
 Needless to say, you'll need to set the connection with database user with enough database privileges to perform migrations (DDLs).
 
+## Install NodeJS
+
+If it's not installed, install [NodeJS](https://nodejs.org/download). This repo is developed with NodeJS 12.
+
 ## run `npm install`
 
-Tested with NodeJS v12, as with any other NodeJS, run `npm install` to fetch all dependencies.
+As with any other NodeJS, run `npm install` to fetch all dependencies.
 
 ## migrations location
 
